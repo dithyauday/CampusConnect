@@ -1,0 +1,31 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.o
+*.obj
+
+# Executables & Binaries
+backend/build/
+bin/
+server
+*.exe
+*.out
+*.app
+
+# IDEs and Editors configuration paths
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
